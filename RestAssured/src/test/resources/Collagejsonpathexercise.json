@@ -1,0 +1,46 @@
+{
+  "company": {
+    "departments": [
+      {
+        "name": "Engineering",
+        "employees": [
+          {
+            "id": 101,
+            "name": "Alice",
+            "email": "alice@company.com",
+            "salary": 85000
+          },
+          {
+            "id": 102,
+            "name": "Bob",
+            "email": "bob@company.com",
+            "salary": 92000
+          },
+          {
+            "id": 103,
+            "name": "Charlie",
+            "email": "charlie@company.com",
+            "salary": 91000
+          }
+        ]
+      },
+      {
+        "name": "Sales",
+        "employees": [
+          {
+            "id": 201,
+            "name": "David",
+            "email": "david@company.com",
+            "salary": 87000
+          },
+          {
+            "id": 202,
+            "name": "Eva",
+            "email": "eva@company.com",
+            "salary": 89000
+          }
+        ]
+      }
+    ]
+  }
+}
